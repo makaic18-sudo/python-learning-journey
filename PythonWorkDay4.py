@@ -1,3 +1,4 @@
+#DAY 04
 names_lists = ["Ali", "Khan", "Fatima", "Marium", 24 , 20, "Ali Akbar", 25, "Babar"]
 print(names_lists)
 print(type(names_lists))

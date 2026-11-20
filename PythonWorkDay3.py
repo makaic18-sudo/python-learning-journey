@@ -1,9 +1,10 @@
-#my_age =  24
-#my_ages = str(24)
-#my_age2 = int("Twenty Four")
-#print(my_age)
-#print(my_age2)
-#print(my_ages)
+#DAY 03
+my_age =  24
+my_ages = str(24)
+my_age2 = int("Twenty Four")
+print(my_age)
+print(my_age2)
+print(my_ages)
 from pickle import TRUE, FALSE
 
 new_var = "Twenty Four" * 24

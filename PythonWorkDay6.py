@@ -1,3 +1,4 @@
+#DAY 06
 names_tuples = ("Ali", "Khan", "Fatima", "Marium", "24" , "20", "Ali Akbar", "25", "Babar")
 convert_list_to_tuple = list(names_tuples)
 convert_list_to_tuple.sort()
