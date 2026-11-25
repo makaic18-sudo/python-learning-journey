@@ -5,7 +5,8 @@ demo_dict = {"person 01": {"name": "Ali",
                            },
                            "person 02": {"name": "Khan",
                                          "age": 43,
-                                         "City": ["Quetta", "Multan", "Faisalabad"]
+                                         "City": ["Quetta", "Multan", "Faisalabad"],
+                                         "keys": [34, 66, 78]
                                          }
                            }
 print(demo_dict)
@@ -31,3 +32,7 @@ x = (34, 45, 545)
 y = ("Ali", "Khan", "Junaid")
 dict = demo_dict.fromkeys(x,y)
 print(dict)
+dict_3 = demo_dict.popitem()
+print(dict_3)
+demo_dict.update["keys" : 434]
+print(demo_dict)
